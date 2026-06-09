@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Avatar maître « Mika » — monogramme M dont la jambe droite se prolonge en flèche de boucle (recyclage).
+     Brief kit §5. Palette : vert #1F6B45, ambre #E8A33D (boucle), anthracite #1C2321, crème #F4F1EA.
+     Carré 512, fond plein (recadrage cercle OK), marge interne ~8%. Source de vérité visuelle, identique partout.
+     Déploiement : exporter en PNG 512/256/128/80/32 → hub /assets/avatar-512.png = {{URL_AVATAR}}. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Mika">
+  <rect width="512" height="512" rx="96" fill="#F4F1EA"/>
+  <!-- Lettre M (vert), tracé épais, jonctions arrondies. Jambe droite raccourcie : elle débouche sur la boucle. -->
+  <path d="M 128 392 L 128 150 L 256 300 L 384 150 L 384 300"
+        fill="none" stroke="#1F6B45" stroke-width="46"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Boucle de recyclage (ambre) : prolonge la jambe droite en flèche circulaire (~300°). -->
+  <path d="M 384 300
+           A 70 70 0 1 1 333 374"
+        fill="none" stroke="#E8A33D" stroke-width="40"
+        stroke-linecap="round"/>
+  <!-- Pointe de flèche de la boucle (ambre). -->
+  <path d="M 333 374 L 300 356 L 352 336 Z" fill="#E8A33D"/>
+</svg>

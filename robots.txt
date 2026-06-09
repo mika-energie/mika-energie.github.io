@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mika-energie.github.io/sitemap.xml
