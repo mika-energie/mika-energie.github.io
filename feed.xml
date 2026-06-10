@@ -2,7 +2,8 @@
 <rss version="2.0"><channel>
   <title>Mika — énergie, écologie, ressources</title>
   <link>https://mika-energie.github.io/</link>
-  <description>Articles de Mika : énergie, écologie, recyclage, économie circulaire.</description>
+  <description>Mika écrit sur l'énergie et l'écologie comme une affaire de bien commun.</description>
   <language>fr</language>
+  <item><title>L'écologie n'est pas une punition</title><link>https://mika-energie.github.io/articles/ecologie-pas-une-punition/</link><guid>https://mika-energie.github.io/articles/ecologie-pas-une-punition/</guid></item>
   <item><title>« Un panneau solaire ne rembourse jamais son énergie. » Et si on vérifiait, pour une fois ?</title><link>https://mika-energie.github.io/articles/panneau-solaire-energie/</link><guid>https://mika-energie.github.io/articles/panneau-solaire-energie/</guid></item>
 </channel></rss>
